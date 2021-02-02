@@ -13,6 +13,6 @@ public class Main {
         accOfMine.depositFunds(40);
         System.out.println("Amount is " + accOfMine.getBalance());
         accOfMine.withdrawal(500);
-        System.out.println("Amount after withDraw is " + accOfMine.getBalance()); 
+        System.out.println("Amount after withDraw is " + accOfMine.getBalance());
     }
 }
